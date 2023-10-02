@@ -9,6 +9,7 @@ body {
 .container {
     display: flex;
     justify-content: center;
+    margin-top: 3em;
 }
 
 .container-descripcion {
@@ -36,7 +37,7 @@ p {
 }
 
 .lista-de-productos {
-    margin-top: 5em;
+    margin-top: 1em;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -90,7 +91,6 @@ p {
 .imagen {
     display: flex;
     flex-wrap: wrap;
-    
     justify-content: center;
 }
 
@@ -99,6 +99,7 @@ p {
     border-radius: 1rem;
     justify-content: center;
     max-width: max-content;
+    
 }
 
 .descripcionLarga {
@@ -109,6 +110,7 @@ p {
     font-family: Helvetica, sans-serif;
     text-align: center;
     justify-content: center;
+    margin: 0%;
 }
 
 .precio2 {
@@ -139,6 +141,31 @@ p {
     justify-content: center;
     padding: 1em;
 }
+
+footer {
+    color: #fff;
+    padding: 50px 0 0px 0;
+    text-align: center;
+    position: relative;
+    width: 100%;
+  }
+  footer .redes {
+    margin:0%;
+  }
+  footer .redes a {
+    color: #fff;
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid #fff;
+    border-radius: 100%;
+    width: 42px;
+    height: 42px;
+    line-height: 42px;
+    margin: 20px 20px;
+    font-size: 20px;
+    transition: 0.3s;
+  }
+
 
 @media screen and (min-width: 360px) {
     .imagenProducto {
