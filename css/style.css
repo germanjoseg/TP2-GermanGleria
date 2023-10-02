@@ -19,6 +19,8 @@ body {
 
 
 h1 {
+    margin-top:0%;
+    margin-bottom: 0%;
     font-family: "Pixelify Sans", cursive;
     text-align: center;
     font-size: 5em;
@@ -34,10 +36,11 @@ p {
 }
 
 .lista-de-productos {
+    margin-top: 5em;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    margin: auto;
+    
     width: 100%;
     justify-content: center;
 
@@ -75,27 +78,19 @@ p {
     width: 100%;
 }
 
-.descripcion {
-    color: rgb(255, 255, 255);
-    font-family: Helvetica, sans-serif;
-    font-size: 15px;
-    font-weight: bold;
-    justify-content: center;
-}
+
 
 
 .galeria2 {
-    margin: 0%;
+    margin-top: 0%;
     display: block;
     justify-content: center;
-    
-    
 }
 
 .imagen {
     display: flex;
     flex-wrap: wrap;
-    padding: 1em;
+    
     justify-content: center;
 }
 
