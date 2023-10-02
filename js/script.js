@@ -27,7 +27,6 @@ jsonProductos.forEach((product) => {
   comprar.addEventListener("click", () => {
     productoElegido.push({
       id: product.id,
-      nombre: product.nombre,
       imagen: product.imagen,
       descripcion: product.descripcion,
       descripcionLarga: product.descripcionLarga,
