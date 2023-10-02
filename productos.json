@@ -1,0 +1,55 @@
+[
+  {
+    "id": "producto1",
+    "imagen": "./img/Mario2.png",
+    "descripcion": "Go Karts de juguete de Mario",
+    "descripcionLarga": "Este auto de carrera a control remoto será el juguete preferido para disfrutar dentro o fuera de casa.",
+    "precio": "$80.000",
+    "puntaje": "⭐⭐⭐⭐⭐"
+  },
+
+  {
+    "id": "producto2",
+    "imagen": "./img/Mario1.png",
+    "descripcion": "Go Karts de juguete de Mario",
+    "descripcionLarga": "Este auto de carrera a control remoto será el juguete preferido para disfrutar dentro o fuera de casa.",
+    "precio": "$75.000",
+    "puntaje": "⭐⭐⭐⭐⭐"
+  },
+
+  {
+    "id": "producto3",
+    "imagen": "./img/Luigi1.png",
+    "descripcion": "Go Karts de juguete de Luigi",
+    "descripcionLarga": "Este auto de carrera a control remoto será el juguete preferido para disfrutar dentro o fuera de casa.",
+    "precio": "$85.000",
+    "puntaje": "⭐⭐⭐⭐⭐"
+  },
+
+  {
+    "id": "producto4",
+    "imagen": "./img/Luigi2.png",
+    "descripcion": "Go Karts de juguete de Luigi",
+    "descripcionLarga": "Este auto de carrera a control remoto será el juguete preferido para disfrutar dentro o fuera de casa.",
+    "precio": "$80.000",
+    "puntaje": "⭐⭐⭐⭐⭐"
+  },
+
+  {
+    "id": "producto5",
+    "imagen": "./img/Yoshi1.png",
+    "descripcion": "Go Karts de juguete de Yoshi",
+    "descripcionLarga": "Este auto de carrera a control remoto será el juguete preferido para disfrutar dentro o fuera de casa.",
+    "precio": "$70.000",
+    "puntaje": "⭐⭐⭐⭐⭐"
+  },
+
+  {
+    "id": "producto6",
+    "imagen": "./img/Yoshi2.png",
+    "descripcion": "Go Karts de juguete de Yoshi",
+    "descripcionLarga": "Este auto de carrera a control remoto será el juguete preferido para disfrutar dentro o fuera de casa.",
+    "precio": "$75.000",
+    "puntaje": "⭐⭐⭐⭐⭐"
+  }
+]
